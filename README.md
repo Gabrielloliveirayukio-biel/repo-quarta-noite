@@ -3,6 +3,6 @@
 ### H3 
 
 * Lista
-*Item da lista
-*Item da lista em itálico
-*Item da  lista em negrito
++ Item da lista
++ *Item da lista em itálico
++ **Item da  lista em negrito
